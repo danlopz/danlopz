@@ -28,5 +28,3 @@
 - I love producing music, the motor world and I am a technology enthusiast.
 
 ![Metrics](/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/danlopz/danlopz/notable.svg)
-![Achievements](https://raw.githubusercontent.com/danlopz/danlopz/achievements.svg)

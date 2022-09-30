@@ -18,7 +18,7 @@
 ## I am Dan López
 
 - Head of IT Departament at [Grupo Asysum & Xpertia Services](https://www.asysum.com)
-- Loves I love making music, the motor world and technology.
+- Loves produce music, the motor world and technology.
 
 ![Metrics](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics/notable.svg)

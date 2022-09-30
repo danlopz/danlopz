@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danlopz)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlopz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 <a href="https://app.daily.dev/danlop"><img src="https://api.daily.dev/devcards/99ca266acbb54ebc9f3685706c4b3dcc.png?r=bgx" width="400" alt="Dan's Dev Card"/></a>

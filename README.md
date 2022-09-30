@@ -8,7 +8,7 @@
   
   <a href="https://www.linkedin.com/in/danlopz/">
     <img
-      src="https://img.shields.io/static/v1?GitLab=for-the-badge&logo=gitlab&color=#FC6D26&label=GitLab"
+      src="https://img.shields.io/static/v1?style=for-the-badge&logo=gitlab&color=#FC6D26&label=GitLab"
       alt="GitLab"
     />
   </a>

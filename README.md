@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlopz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlopz)](https://github.com/anuraghazra/github-readme-stats&theme=algolia&count_private=true)
-
 <a href="https://app.daily.dev/danlop"><img src="https://api.daily.dev/devcards/99ca266acbb54ebc9f3685706c4b3dcc.png?r=bgx" width="400" alt="Dan's Dev Card"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

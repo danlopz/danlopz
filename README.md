@@ -20,8 +20,6 @@
 - Head of IT Departament (System Administrator & Full Stack Developer) at [Grupo Asysum & Xpertia Services](https://www.asysum.com)
 - I love producing music, the motor world and I am a technology enthusiast.
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-![Metrics](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/danlopz/danlopz/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/danlopz/danlopz/achievements.svg)

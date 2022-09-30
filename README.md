@@ -1,20 +1,27 @@
-<!--
-**danlopz/danlopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://www.linkedin.com/in/danlopz/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://api.daily.dev/get?r=danlopz" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/danlopz/danlopz/devcard/devcard.svg"
+    />
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danlopz&theme=algolia&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlopz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+## I am Dan López
 
-<a href="https://app.daily.dev/danlop"><img src="https://api.daily.dev/devcards/99ca266acbb54ebc9f3685706c4b3dcc.png?r=bgx" width="400" alt="Dan's Dev Card"/></a>
+- Head of IT Departament at Grupo Asysum(https://www.arkivverket.no/en)
+- Loves I love making music, the motor world and technology.
+
+![Metrics](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/danlopz/danlopz/github-metrics/achievements.svg)

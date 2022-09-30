@@ -5,6 +5,13 @@
       alt="LinkedIn"
     />
   </a>
+  
+  <a href="https://www.linkedin.com/in/danlopz/">
+    <img
+      src="https://img.shields.io/static/v1?logo=gitlab?style=for-the-badge&logo=gitlab&color=0072b1&label=GitLab&message=%E2%98%86"
+      alt="GitLab"
+    />
+  </a>
 
   <a href="https://api.daily.dev/get?r=danlopz" target="_blank">
     <img

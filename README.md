@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="left">
   <a href="https://www.linkedin.com/in/danlopz/">
     <img

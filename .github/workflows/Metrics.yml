@@ -14,12 +14,4 @@ jobs:
     steps:
       - uses: danlopz/metrics@master
         with:
-          template: repository
-          filename: metrics.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: danlopz
-          repo: metrics
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_projects: yes
-          plugin_projects_repositories: danlopz/metrics/projects/1

@@ -12,7 +12,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/danlopz/danlopz/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/danlopz/danlopz/devcard.svg"
     />
   </a>
 </div>

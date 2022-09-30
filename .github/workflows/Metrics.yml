@@ -16,4 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_skipped: danlopz/metrics
           plugin_achievements: yes

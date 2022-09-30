@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlopz&show_icons=true&count_private=true&theme=algolia)
 
-
+<a href="https://app.daily.dev/danlop"><img src="https://api.daily.dev/devcards/99ca266acbb54ebc9f3685706c4b3dcc.png?r=87m" width="400" alt="Dan's Dev Card"/></a>

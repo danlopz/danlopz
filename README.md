@@ -24,7 +24,7 @@
 
 ## I am Dan
 
-- Head of IT Departament (System Administrator & Full Stack Developer) at [Grupo Asysum & Xpertia Services](https://www.asysum.com)
+- IT Developer Manager
 - I love producing music, the motor world and I am a technology enthusiast.
 
 ![Metrics](/github-metrics.svg)

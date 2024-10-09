@@ -24,7 +24,7 @@
 
 ## I am Dan
 
-- Head of Development
+- IT Manager
 - I love producing music, the motor world and I am a technology enthusiast.
 
 ![Metrics](/github-metrics.svg)

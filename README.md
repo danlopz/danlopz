@@ -22,11 +22,6 @@
   </a>
 </div>
 
-## I am Dan
-
-- IT Manager
-- I love producing music, the motor world and I am a technology enthusiast.
-
 [![Metrics](https://github.com/danlopz/danlopz/actions/workflows/Metrics.yml/badge.svg)](https://github.com/danlopz/danlopz/actions/workflows/Metrics.yml)
 
 ![Metrics](/github-metrics.svg)
